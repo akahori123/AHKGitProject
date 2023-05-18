@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T02:03:44.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="ht1CDZ8Ff_mqja_u9S0N" version="21.3.2" type="device" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-05-18T02:06:51.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="mQlQ-q_kzOaTomzMVfTn" version="21.3.2" type="device" pages="8">
   <diagram name="ページ1" id="a-cT5ZKd9dPZusnvfCSr">
     <mxGraphModel dx="2687" dy="2104" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1362,7 +1362,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WWl_QGkhZGKmUtvBUjbi-4" value="新規登録画面" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+        <mxCell id="WWl_QGkhZGKmUtvBUjbi-4" value="新規登録" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="2170" y="1440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WWl_QGkhZGKmUtvBUjbi-5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="WWl_QGkhZGKmUtvBUjbi-4" target="D4htbP6GZcOoq6GskbAm-7" edge="1">
@@ -1460,7 +1460,7 @@
         <mxCell id="OuE3Tx86rW0YNEfgOalj-19" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="2175" y="1825" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OuE3Tx86rW0YNEfgOalj-22" value="「一覧ページ」を押す" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OuE3Tx86rW0YNEfgOalj-22" value="一覧ページ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2068" y="1595" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OuE3Tx86rW0YNEfgOalj-24" value="申請する年月を入力して「申請ページ」を押す" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
